@@ -17,7 +17,7 @@ Just enter:
 
 ![screenshot](https://github.com/roblatour/SolarPanelTiltAngleCalculator/assets/5200730/85c1ff65-95b5-4960-9877-3af8d765b666)
 
-Note: while the spread sheet is protected to prevent inadvertent changes to the formulas, it is not password protected so you can simply remove the protection if you like (Review - Unprotect Sheet).   Similarly, there are some hidden columns and rows, but again you can unhide them if you like.
+Note: while the spreadsheet is protected to prevent inadvertent changes to the formulas, it is not password protected so you can simply remove the protection if you like (Review - Unprotect Sheet).   Similarly, there are some hidden columns and rows, but again you can unhide them if you like.
 
 ## License
 
