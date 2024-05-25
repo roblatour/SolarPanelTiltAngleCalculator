@@ -13,7 +13,7 @@ Just enter:
 - the latitude at which the solar panels will be placed
 - the year for which you would like the numbers generated
 - the time (hours and minutes) for which you would like the positioning optimize (for example 12 hours and 0 minutes for noon)
-  (note: time isn't adjusted for Day Light Savings Time should that apply in your location)
+  (note: the time is not adjusted for Day Light Savings Time)
 - the number of decimal places you would like reported (for example 1 to have an angle like 38.2 reported)
   
 and the spreadsheet will calculate the yearly, seasonal, monthly and daily optional angles for tilting your solar panels.
