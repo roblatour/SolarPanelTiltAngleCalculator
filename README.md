@@ -16,7 +16,7 @@ Just enter:
   (note: the time is not adjusted for Day Light Savings Time)
 - the number of decimal places you would like reported (for example 1 to have an angle like 38.2 reported)
   
-and the spreadsheet will calculate the yearly, seasonal, monthly and daily optional angles for tilting your solar panels.
+and the spreadsheet will calculate the yearly, seasonal, monthly and daily optimum angles for tilting your solar panels.
 
 ![screenshot](https://github.com/roblatour/SolarPanelTiltAngleCalculator/assets/5200730/85c1ff65-95b5-4960-9877-3af8d765b666)
 
